@@ -4,4 +4,4 @@
     I'm Yusuf, motivated, entusiastic and a self-taught Front-end Dev.
 </p>
 
-[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufali19)](https://github.com/anuraghazra/github-readme-stats)
+[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufali19)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical)
