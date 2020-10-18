@@ -5,7 +5,7 @@
     <img align="center" alt="Yusuf | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
    <a href="https://www.linkedin.com/in/yusuf-ali-501047184/">
-    <img align="center" alt="Yusuf | Twitter" width="21px" src="./assets/linkedin.svgs" />
+    <img align="center" alt="Yusuf | Linkedin" width="21px" src="./assets/linkedin.svg" />
   </a>
 </p>
 
