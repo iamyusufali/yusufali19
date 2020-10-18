@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href="https://twitter.com/yusufali_19">
-    <img align="center" alt="Yusuf | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+    <img align="center" alt="Yusuf | Twitter" width="21px" src="./assets/twitter.svg" />
   </a>
    <a href="https://www.linkedin.com/in/yusuf-ali-501047184/">
     <img align="center" alt="Yusuf | Linkedin" width="21px" src="./assets/linkedin.svg" />
+  </a>
+     <a href="https://www.instagram.com/yusufali.19/?hl=en">
+    <img align="center" alt="Yusuf | Instagram" width="21px" src="./assets/instagram.svg" />
   </a>
 </p>
 
