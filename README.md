@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! :wave:</h1>
+<h1 align='center'> Hi! :wave:</h1>
 
 <p align="center">
   <a href="https://twitter.com/yusufali_19">
