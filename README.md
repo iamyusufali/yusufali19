@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there! :wave:</h1>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Yusuf | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/yusufali_19">
+  <img align="center" alt="Yusuf | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <p align="center">
