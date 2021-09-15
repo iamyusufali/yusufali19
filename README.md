@@ -1,16 +1,9 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Yusuf Ali</h2>
 
-<p align="center">
-  <a href="https://twitter.com/yusufali_19">
-    <img align="center" alt="Yusuf | Twitter" width="30px" src="./assets/twitter.svg" />
-  </a>
-   <a href="https://www.linkedin.com/in/yusuf-ali-501047184/">
-    <img align="center" alt="Yusuf | Linkedin" width="30px" src="./assets/linkedin.svg" />
-  </a>
-     <a href="https://www.instagram.com/yusufali.19/?hl=en">
-    <img align="center" alt="Yusuf | Instagram" width="30px" src="./assets/instagram.svg" />
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue??style=social&logo=linkedin)](https://www.linkedin.com/in/yusuf-ali-501047184/)
+[![Linkedin](https://img.shields.io/badge/-twitter-white??style=social&logo=twitter)](https://twitter.com/yusufali_19)
+[![Linkedin](https://img.shields.io/badge/-instagram-purple??style=social&logo=instagram)](https://www.instagram.com/yusufali.19/?hl=en)
+
 
 <p align="center">
     I'm Yusuf, motivated, entusiastic and a self-taught Front-end Engineer.
