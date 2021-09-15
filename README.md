@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Yusuf Ali</h2>
 
 <p align="center">
   <a href="https://twitter.com/yusufali_19">
@@ -16,4 +16,14 @@
     I'm Yusuf, motivated, entusiastic and a self-taught Front-end Engineer.
 </p>
 
-![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufali19&count_private=true&show_icons=true&theme=radical)
+***
+
+ <br>
+
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufali19&count_private=true&show_icons=true&theme=radical" alt="yusufStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufali19&layout=compact&theme=dark" alt="top-langs" />
+</p>
