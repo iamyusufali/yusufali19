@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    I'm Yusuf, motivated, entusiastic and a self-taught Front-end Engineer.
+    I'm Yusuf, motivated, entusiastic and a self-taught Software Developer.
 </p>
 
 ***
