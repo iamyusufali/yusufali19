@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    I'm Yusuf, motivated, entusiastic and a self-taught Software Developer.
+    I'm Yusuf, motivated, entusiastic and a self-taught Software Engineer.
 </p>
 
 ***
@@ -29,6 +29,7 @@
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Postgresql" height="35rem" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)" /></code>
 
 ***
 
